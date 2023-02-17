@@ -4,3 +4,7 @@ tests
 tests/*
 node_modules 
 package-lock.json
+dist
+coverage
+cwerts/
+certs
